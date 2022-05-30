@@ -1,6 +1,6 @@
 # Ryan Yan's Portfolio
 
-I am currently a rising fourth-year computer science major at Cal Poly Pomona who wishes to pursue a career in software engineering.
+I am currently a rising fourth-year computer science major at Cal Poly Pomona who wishes to pursue a career in software engineering/development.
 
 ## Work Experiences
 
@@ -10,7 +10,7 @@ I have been teaching at [Coding Minds](https://codingmindsacademy.com/) since Oc
 
 ### Researcher at Cal Poly Pomona
 
-I was part of the NSF REU Big Data Privacy and Security Program and engaged in researching the effects of perturbing image textures on object detection models, specifically Faster-RCNN. My responsibilities included writing the code for taking pictures of 3D objects using virtual camera, perturbing the image textures, and inputting them into Faster-RCNN to test its accuracy.
+I was part of the [NSF REU Big Data Privacy and Security Program](https://www.cpp.edu/bigdatasec-reu/index.shtml) and engaged in researching the effects of perturbing image textures on object detection models, specifically Faster-RCNN. My responsibilities included writing the code for taking pictures of 3D objects using virtual camera, perturbing the image textures, and inputting them into Faster-RCNN to test its accuracy.
 
 ## Projects
 
@@ -26,7 +26,7 @@ I have developed a VR Game in Unity with three other friends, and it is a tower 
 
 ### Music
 
-I like to make music through LMMS in my free time. A couple of recent tunes that I am proud of are [Sticky Showdown in a White World](https://soundcloud.com/user-131478155/sticky-showdown-in-a-white-world) and [Plummeting Leaves](https://soundcloud.com/user-131478155/plummeting-leaves). You can find the rest of my music [here](https://soundcloud.com/user-131478155).
+I like to make music in LMMS in my free time. A couple of recent tunes that I am proud of are [Sticky Showdown in a White World](https://soundcloud.com/user-131478155/sticky-showdown-in-a-white-world) and [Plummeting Leaves](https://soundcloud.com/user-131478155/plummeting-leaves). You can find the rest of my music [here](https://soundcloud.com/user-131478155).
 
 ### Video Editing
 
