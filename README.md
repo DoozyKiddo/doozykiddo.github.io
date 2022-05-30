@@ -1,12 +1,16 @@
 # Ryan Yan's Portfolio
 
-I am currently a third-year computer science major at Cal Poly Pomona who wishes to pursue a career in software engineering.
+I am currently a rising fourth-year computer science major at Cal Poly Pomona who wishes to pursue a career in software engineering.
 
 ## Work Experiences
 
 ### Instructor at Coding Minds
 
+I have been teaching at [Coding Minds](https://codingmindsacademy.com/) since October of 2021 and have taught for 300+ hours. Subjects I have taught include Java, Python, Flutter, Unity, Construct 3, and HTML/JavaScript. Some of my responsibilities include preparing class material ahead of time, pacing my lessons with the students' pace, and distributing homework tailored to the students' needs.
+
 ### Researcher at Cal Poly Pomona
+
+I was part of the NSF REU Big Data Privacy and Security Program and engaged in researching the effects of perturbing image textures on object detection models, specifically Faster-RCNN. My responsibilities included writing the code for taking pictures of 3D objects using virtual camera, perturbing the image textures, and inputting them into Faster-RCNN to test its accuracy.
 
 ## Projects
 
@@ -26,4 +30,4 @@ I like to make music through LMMS in my free time. A couple of recent tunes that
 
 ### Video Editing
 
-I also enjoy creating videos and posting them on YouTube. My most recent video can be seen [here](https://www.youtube.com/watch?v=B3uuh2KRoeQ&ab_channel=DoozyKiddo).
+I also enjoy creating videos and posting them on YouTube. The vast majority of the videos on my channel are related to video games. My most recent video can be seen [here](https://www.youtube.com/watch?v=B3uuh2KRoeQ&ab_channel=DoozyKiddo).
