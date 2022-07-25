@@ -1,5 +1,7 @@
 # Ryan Yan's Portfolio
+
 ![Selfie](https://cdn.discordapp.com/attachments/811301470179164162/1001037149170315264/face.jpg)
+
 I am currently a rising fourth-year computer science major at Cal Poly Pomona who wishes to pursue a career in software engineering/development.
 
 ## Work Experiences
@@ -21,6 +23,12 @@ I have collaborated with some programmers to write research papers for mobile de
 ### VR Game
 
 I have developed a VR Game in Unity with three other friends, and it is a tower defense game that involves spawning troops and shooting guns to attack. A video demo can be found [here](https://www.youtube.com/watch?v=6a3Kjr523JI), and some examples of C# scripts used can be found [here](https://github.com/DoozyKiddo/Ryan-VR-Scripts).
+
+![VR Game Image 1](https://cdn.discordapp.com/attachments/811301470179164162/1000580306191003689/unknown.png)
+
+![VR Game Image 2](https://cdn.discordapp.com/attachments/811301470179164162/1000580513754529842/unknown.png)
+
+![VR Game Image 3](https://cdn.discordapp.com/attachments/811301470179164162/1000581217818791996/unknown.png)
 
 ### Ponderal Index Application
 
