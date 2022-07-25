@@ -1,5 +1,5 @@
 # Ryan Yan's Portfolio
-
+![Selfie](https://cdn.discordapp.com/attachments/811301470179164162/1001037149170315264/face.jpg)
 I am currently a rising fourth-year computer science major at Cal Poly Pomona who wishes to pursue a career in software engineering/development.
 
 ## Work Experiences
