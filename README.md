@@ -40,7 +40,7 @@ I have developed a [simple messaging application](https://github.com/DoozyKiddo/
 
 ![Messaging App Image 2](https://cdn.discordapp.com/attachments/811301470179164162/1001044977402523668/unknown.png)
 
-![Messaging App Image 3](https://cdn.discordapp.com/attachments/811301470179164162/1001045022394814515/unknown.png)
+![Messaging App Image 3](https://cdn.discordapp.com/attachments/811301470179164162/1001044907160522832/unknown.png)
 
 ## Passions
 
