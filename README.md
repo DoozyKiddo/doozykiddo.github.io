@@ -18,7 +18,7 @@ I was part of the [NSF REU Big Data Privacy and Security Program](https://www.cp
 
 ### Research Papers
 
-I have collaborated with some programmers to write research papers for mobile device applications and Unity games. One paper studies the effectiveness of a newly developed [to-do list app](https://drive.google.com/file/d/18mNX-3WTwKCDJx61UwypaK_zZNbnInPo/view?usp=sharing) that can cleverly create tasks based on keywords and another paper studies an [innovative mobile health app](https://drive.google.com/file/d/1lD3qy36lUVeTMZ20ARVvC1DuZ_-PPM9g/view?usp=sharing) that is designed to have those with mental health issues communicate with one another. One was sent to the 
+I have collaborated with some programmers to write research papers for mobile device applications and Unity games. One paper studies the effectiveness of a newly developed [to-do list app](https://drive.google.com/file/d/18mNX-3WTwKCDJx61UwypaK_zZNbnInPo/view?usp=sharing) that can cleverly create tasks based on keywords and another paper studies an [innovative mobile health app](https://drive.google.com/file/d/1lD3qy36lUVeTMZ20ARVvC1DuZ_-PPM9g/view?usp=sharing) that is designed to have those with mental health issues communicate with one another.
 
 ### VR Game
 
