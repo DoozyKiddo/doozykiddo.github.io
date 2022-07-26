@@ -32,6 +32,10 @@ I have developed a VR Game in Unity with three other friends, and it is a tower 
 
 I have developed a [basic mobile application](https://github.com/DoozyKiddo/Ponderal-Index-Calculator) that calculates the Ponderal Index of a person using the weight and height of the person as input. I mainly created this application to give myself more experience with Dart and Flutter.
 
+![PI App Image 1](https://cdn.discordapp.com/attachments/811301470179164162/1001345189996134560/unknown.png)
+
+![PI App Image 2](https://cdn.discordapp.com/attachments/811301470179164162/1001345834601955348/unknown.png)
+
 ### Messaging Application
 
 I have developed a [simple messaging application](https://github.com/DoozyKiddo/Messaging-Application) in Java that is capable of using a local server and clients for both private messaging and group messaging. The application features a command to check the list of users and a command to gracefully exit the application.
