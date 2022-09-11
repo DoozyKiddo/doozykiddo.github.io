@@ -54,4 +54,4 @@ I like to make music in LMMS in my free time. A couple of recent tunes that I am
 
 ### Video Editing
 
-I also enjoy creating videos and posting them on YouTube. The vast majority of the videos on my channel are related to video games. My most recent video can be seen [here](https://www.youtube.com/watch?v=B3uuh2KRoeQ&ab_channel=DoozyKiddo).
+I also enjoy creating videos and posting them on YouTube. The vast majority of the videos on my channel are related to video games. One of the videos I have made can be seen [here](https://www.youtube.com/watch?v=B3uuh2KRoeQ&ab_channel=DoozyKiddo).
